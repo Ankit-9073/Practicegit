@@ -1,2 +1,3 @@
 ####  Practice git commands
-## i am Ankit
+## i am Ankits
+## i am working as analytic Manager
